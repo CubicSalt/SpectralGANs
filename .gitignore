@@ -1,0 +1,14 @@
+assets/
+data/
+fid/
+figure/
+inversion/
+models/
+models_deconv/
+PDCAT/
+results/
+results_deconv/
+results_sup/
+upConv/
+毕业论文/
+*.pdf
